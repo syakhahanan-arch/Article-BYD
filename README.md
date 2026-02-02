@@ -1,4 +1,4 @@
-Article-BYD
+# Article-BYD
 BYD Article Website
 Website article informatif tentang BYD (Build Your Dreams) - inovasi kendaraan listrik untuk mobilitas masa depan yang berkelanjutan.
 
@@ -7,9 +7,10 @@ Project ini adalah sebuah website article statis yang dibuat menggunakan HTML da
 
 Technical Features
 
-- ⁠Semantic HTML5 - Struktur markup yang proper dan accessible
-- ⁠Pure CSS - Styling tanpa framework, lightweight dan fast
-- ⁠CSS Animations - Smooth transitions dan gradient effects
-- ⁠Flexbox Layout - Modern layout system untuk responsiveness
-- Google Fonts - Typography menggunakan Quicksand font family
+1. Semantic HTML5 - Struktur markup yang proper dan accessible
+2. ⁠Pure CSS - Styling tanpa framework, lightweight dan fast
+3. CSS Animations - Smooth transitions dan gradient effects
+4. Flexbox Layout - Modern layout system untuk responsiveness
+5. Google Fonts - Typography menggunakan Quicksand font family
+
 
